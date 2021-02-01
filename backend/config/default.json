@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://harsha2002:harsha2002@dasswebapp.ybol9.mongodb.net/Jobportal?retryWrites=true&w=majority",
+    "jwtSecret": "SecretToken"
+}
